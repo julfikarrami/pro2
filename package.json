@@ -1,0 +1,14 @@
+{
+  "name": "rajshahi-namaz-bot",
+  "version": "4.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "node-cron": "^3.0.3",
+    "qrcode": "^1.5.4",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
